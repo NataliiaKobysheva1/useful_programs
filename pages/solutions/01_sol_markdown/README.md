@@ -43,3 +43,10 @@
  - [ ] Abandoned World
 
 *For more info* [fandom.com](https://omniscient-readers-viewpoint.fandom.com/wiki/Category:Characters)
+
+```python
+x = 49
+y = x**2/51
+print(y)
+```
+
