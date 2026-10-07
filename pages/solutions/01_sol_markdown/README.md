@@ -50,3 +50,9 @@ y = x**2/51
 print(y)
 ```
 
+***Energia mechaniczna*** — suma energii kinetycznej i potencjalnej. Jest postacią energii związaną z ruchem i położeniem obiektu fizycznego (układ punktów materialnych, ośrodka ciągłego itp.) względem pewnego układu odniesienia.
+
+- *Energia kinetyczna*
+
+$E=mv^2/2$
+
