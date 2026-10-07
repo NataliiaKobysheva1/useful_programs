@@ -52,7 +52,12 @@ print(y)
 
 ***Energia mechaniczna*** — suma energii kinetycznej i potencjalnej. Jest postacią energii związaną z ruchem i położeniem obiektu fizycznego (układ punktów materialnych, ośrodka ciągłego itp.) względem pewnego układu odniesienia.
 
-- *Energia kinetyczna*
+Dla ciała o masie **m** i prędkości **v** dużo mniejszej od prędkości światła w próżni ( v ≪ c, gdzie c jest prędkością światła w próżni), *energia kinetyczna* wynosi: $Ek=mv^2/2$.
 
-$E=mv^2/2$
+*Energia potencjalna* ciała o masie **m** umieszczonego na wysokość **h** nad poziomem odniesienia jest równa pracy wykonanej przy podnoszeniu ciała z poziomu odniesienia na tę wysokość: $Ep=mgh$.
+      
+Zgodnie z definicją *energia potencjalna sprężystości* jest równa pracy, jaką wykonuje siła zewnętrzna przeciwko sile sprężystości przy odkształcaniu układu od ustalonego stanu. Siła zewnętrzna jest skierowana przeciwnie do siły sprężystości i ma równą jej wartość, czyli 
+Fz(x)=kx.Przyjmując, że ustalonym stanem układu jest jego stan równowagi (wtedy x=0), energię potencjalną wyraża wzór: $Ep=kx^2/2$.
+
+
 
