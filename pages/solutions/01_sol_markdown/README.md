@@ -59,5 +59,22 @@ Dla ciała o masie **m** i prędkości **v** dużo mniejszej od prędkości świ
 Zgodnie z definicją *energia potencjalna sprężystości* jest równa pracy, jaką wykonuje siła zewnętrzna przeciwko sile sprężystości przy odkształcaniu układu od ustalonego stanu. Siła zewnętrzna jest skierowana przeciwnie do siły sprężystości i ma równą jej wartość, czyli 
 Fz(x)=kx.Przyjmując, że ustalonym stanem układu jest jego stan równowagi (wtedy x=0), energię potencjalną wyraża wzór: $Ep=kx^2/2$.
 
+**Prawo Ohma**:
 
+$$
+I = \frac{U}{R}
+$$
 
+**Równanie stanu gazu doskonałego**:
+
+$$
+pV = \frac{m}{M} RT
+$$
+
+**Równoważność masy i energii Einsteina**:
+
+$$
+E = mc^2
+$$
+
+![Wykres](wykres.png)
