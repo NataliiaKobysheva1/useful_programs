@@ -42,7 +42,9 @@
  - [x] Emergency Defense
  - [ ] Abandoned World
 
-*For more info* [fandom.com](https://omniscient-readers-viewpoint.fandom.com/wiki/Category:Characters)
+*For more info* [fandom.com](https://omniscient-readers-viewpoint.fandom.com/wiki/Category:Characters) 
+
+[Google Colab](http://colab.research.google.com/)
 
 ```python
 x = 49
